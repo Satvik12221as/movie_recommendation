@@ -3,7 +3,8 @@ This is a simple project where I built a movie recommendation system. The idea i
 
 Here are two csv files which i took them from kaggle and by using this dataset my ML model is predicting the similar movies.
 
-1.credits 
+1.credits /n
 2.movies 
+
 
 

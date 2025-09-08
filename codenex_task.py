@@ -28,3 +28,5 @@ def recommend(movie_name):
 # Example usage
 recommend("Spectre")
 print("These are the similar movies to Spectre")
+recommend("The Lego Movie")
+print("These are the similar movies to The Lego Movie")
